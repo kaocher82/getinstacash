@@ -1,0 +1,19 @@
+.modalPopCityBlock{
+border:solid 1px #ccc;
+border-radius:5px;
+}
+.modalPopCityBlock:hover{
+background-color:#04af53;
+color:#fff;
+border:solid 1px #04af53;}
+
+.btn:focus, #search:focus{
+outline:none !important;
+}
+
+#search{
+	height:inherit;
+	background-color:transparent;
+	border:none;
+	color:#fff;
+}

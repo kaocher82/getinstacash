@@ -1,0 +1,5 @@
+Sitemap: https://www.getinstacash.in/smartphone-sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /zw_admin/
+Disallow: /blog/tag/

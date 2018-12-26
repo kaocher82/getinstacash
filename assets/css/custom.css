@@ -1,0 +1,326 @@
+.mob{
+	display: none;
+}
+
+.affa-post3 .post-item-meta ul{
+	float: right !important;
+}
+
+.pincode{
+	margin-top: 10px;
+	margin-bottom: 20px;
+	}
+
+.pincode input[type="submit"]{
+	padding: 10px 30px !important;
+}
+
+.pincode input[type="text"]{
+	height: 40px !important;
+ padding: 0px 30px !important;
+  border: none;
+  border-bottom: solid 2px #c9c9c9;
+  transition: border 0.3s;
+  box-shadow: none;
+}	
+
+
+affa-post .post-item-title {
+		font-size:20px;
+		line-height:28px;
+		margin:0px;
+		padding-bottom: 5px;
+		text-align: center;
+	}
+
+
+.header-content2 .text-wrapper{
+	min-height: 54px;
+}
+
+.archive-post .col-xs-6,.archive-post .col-xs-12{
+	padding-right: 7.5px;
+	padding-left: 7.5px;
+}
+
+.more12 .affa-post{
+	padding-top: 0px;
+	min-height: auto;
+}
+
+.more12 .affa-post .post-item-txt{
+	padding: 0px
+}
+.more12 .affa-post .post-item-title{
+	padding-bottom: 0px;
+}
+
+.more12 .affa-post .post-item-meta{
+	padding: 15px 15px;
+}
+
+.singled{
+	display: inline-block;
+}
+
+.des{
+	display: inline-block;
+	width: 40%
+}
+
+.des h1{
+	
+}
+
+.affa-posts-tab-widget .list-posts li{
+	padding-left: 0px;
+}
+
+.affa-post3 .post-item-title{
+	font-size: 16px;
+		font-weight: lighter;
+	}
+
+.searchri{
+	font-size: 25px;
+	color: grey;
+	padding-right: 10px;
+	position: relative;
+	top: 4px;
+}	
+
+.brandtray{
+	width: 80%;
+	padding-left: 5%;
+	padding-right: 5%;
+	position:relative;
+	left: 5%;
+	height: 100%;
+}
+
+.page-search{
+	padding-top: 30px;
+}
+
+.ques table { width:100%; }
+		.ques table tr { border-bottom:1px dotted #e0e0e0; }
+		.ques table tr:last-child { border-bottom:0px; }
+			.ques table tr th, .ques table tr td { padding:20px 0px; }
+			.ques table tr:first-child th, .ques table tr:first-child td { padding-top:0px; }
+			.ques table tr:last-child th, .ques table tr:last-child td { padding-bottom:0px; }
+			.ques table tr th {
+				font-family:Montserrat, Arial, sans-serif;
+				color:#303030;
+				font-size:15px;
+				font-weight:500;
+				padding-right:20px;
+			}
+
+
+
+.lastp{
+	width: 50%;
+	position: relative;
+	left: 35%;
+	margin-top: 7%;
+}
+
+.checkoutbtn{
+	margin-top: 30px !important;
+}
+
+#sidebar{
+	border-left: 1px solid #eee;
+}
+
+.questrayholder label{
+
+	font-size: 20px;
+	padding:10px;
+}
+
+.screenback{
+	top:-6px;
+	width: 50%;
+	position: relative;
+	left: 25%;
+	padding-right:5%; 
+	padding-left:5%;
+}
+
+.phonelayerimg{
+	width: 99%;position: relative;left: 0%;padding-top: 30%;padding-bottom: 20%;top: -5px;
+}
+
+.sidetag{
+	float:right;
+	font-size: 13px;
+}
+
+.pandr{
+	min-height: 20px !important;
+}
+
+
+
+
+@media (max-width:1000px) {
+
+	.web1{
+		display: none;
+	}
+
+	.dropdown{
+		position: relative;
+		top: 10px;
+	}
+
+	.mob2{
+		display: block !important;
+	}
+
+	#header .header-content2 .header-content-form{
+		border:none;
+		width: 100%;
+		margin-top: 0px;
+	}
+
+	#header .header-content2 .header-content-overlay {
+		padding:0px 0px 20px;
+	}
+
+	#features4 li{
+		text-align: left;
+	}
+
+	.summarymobile{
+		text-align: center;
+		border-bottom: 1px solid #eee;
+	}
+
+	.post-content-price{
+		text-align: center;
+	}
+
+	.mini{
+		text-align: center;
+	}
+
+	.summarytabs li {
+		display: inline-block !important;
+		text-align: center;
+	}
+
+	.secondtab{
+		margin-right: 20px;
+	}
+
+	.searchri{
+		font-size: 25px;color: grey;padding-right: 9px;position: relative;top: 5px;
+	}
+
+}
+
+
+@media (max-width: 500px) {
+
+	.mt{
+		font-size: 18px;
+	}
+
+	.web{
+		display: none;
+	}
+
+	.mob{
+		display: block;
+	}
+
+	#header .header-content2 .header-content-form{
+		margin-top: 0px;
+	}
+
+	.affa-post3 .post-item-title{
+		font-size: 13px;
+		font-weight: lighter;
+	}
+
+	.affa-posts-tab-widget .list-posts li{
+		margin-bottom: 0px;
+	}
+
+	.page-search{
+	padding-top: 0px;
+	}
+
+	.pricelog{
+		text-align: center;
+	}
+	
+	.ques table tr, .ques table td, .ques table th { display:block; }
+	.ques table tr { padding:5px 0px; }
+	.ques table tr:first-child { padding-top:0px; }
+	.ques table tr:last-child { padding-bottom:0px; }
+	.ques table tr td {font-size:14px; padding:0px; }
+	.ques table tr th {
+		font-size:14px;
+		padding:0px;
+	}	
+
+	.lastp{
+		width: 40%;
+		position: relative;
+		left: 30%;
+	}	
+
+	
+
+	.proddes{
+		margin-bottom: 10px !important;
+	}
+
+	#sidebar{
+	border-left: none;
+}
+
+.brandtrayholder{
+	background:#f0f0f0 url(../../imagesNew/bg-sub-header.png) top left repeat;
+}
+
+.screenback{
+	width: 60%;
+	position:relative;
+	left: 20%; 
+	padding-left: 4%;
+	padding-right:4%;
+}
+.phonelayerimg{
+	width: 99%;position: relative;left: 0.5%;padding-top: 30%;padding-bottom: 20%;top: -10px;
+}
+
+.page-search{
+	padding-top: 35px;
+}
+
+.page-search2{
+	 padding-top: 15px !important;
+}
+
+.ques1 h4{
+	font-size: 23px;
+}
+
+.pincode input[type="submit"]{
+	padding: 10px 10px !important;
+}
+
+.pincode input[type="text"]{
+	height: 40px !important;
+  padding: 0px 0px !important;
+  border: none;
+  border-bottom: solid 2px #c9c9c9;
+  transition: border 0.3s;
+  box-shadow: none;
+}	
+
+}
